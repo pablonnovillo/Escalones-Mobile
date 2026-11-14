@@ -210,7 +210,7 @@ La confirmación de pedidos de impresión y el cierre de compras de la tienda so
 - Gestión de errores de conexión.
 - Separación del backend y la aplicación móvil.
 
-## Mejoras futuras
+## Mejoras futuras (Estaran implementadas antes de Diciembre 2026)
 
 - Centralización de la configuración de API.
 - Extracción de componentes reutilizables.
