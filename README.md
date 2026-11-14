@@ -469,7 +469,7 @@ La integración con Mercado Pago se encuentra en etapa de pruebas.
 - Utilización de un archivo de dependencias y su correspondiente archivo de bloqueo.
 
 ## Mejoras futuras
-
+(Estaran implementadas antes de Diciembre 2026)
 - Centralizar la configuración de la API.
 - Utilizar variables de entorno para configuraciones no sensibles.
 - Extraer componentes reutilizables.
@@ -500,10 +500,3 @@ La integración con Mercado Pago se encuentra en etapa de pruebas.
 
 **Autor:** Pablo Novillo
 
----
-
-**ESCALONES — Estudiá. Imprimí. Jugá.**
-
-**Institución:** Escuela Da Vinci
-
-**Año:** 2026
