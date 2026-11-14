@@ -1,7 +1,9 @@
 
 # ESCALONES — Aplicación móvil
 
-Aplicación móvil desarrollada como parte del proyecto ESCALONES para la materia Seminario Final de la carrera Analista de Sistemas de la Escuela Da Vinci.
+ESCALONES es una Aplicacion desarrollada para una imprenta, librería y espacio de coworking con atención las 24 horas.
+
+El proyecto surge con el objetivo de centralizar en un mismo sistema diferentes necesidades, especialmente de estudiantes y personas que trabajan o estudian fuera de sus hogares. La plataforma permite realizar pedidos de impresión, comprar productos de librería, realizar reservas y gestionar distintos servicios desde un mismo lugar.
 
 ## Descripción del proyecto
 
